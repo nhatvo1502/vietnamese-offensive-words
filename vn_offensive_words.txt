@@ -461,3 +461,5 @@ tiên sư nhà mày
 tiên sư bố
 tổ sư
 ###############################
+# Nói láy and its variants
+Đạo dụ
