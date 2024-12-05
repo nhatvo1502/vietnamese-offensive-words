@@ -44,6 +44,9 @@ cuk
 cười ỉa
 cười ẻ
 ###############################
+C extra
+đồ chó
+###############################
 # Đéo and its variants
 đéo
 đếch
@@ -377,6 +380,7 @@ fck
 đụ
 bỏ bú
 buscu
+solid sephere
 ###############################
 # Various humiliation
 ngu
@@ -449,7 +453,7 @@ thấy mẹ
 thấy mịe
 thấy mịa
 thay me
-thay mie
+thay miee
 thay mia
 tổ cha
 bà cha mày
